@@ -1,0 +1,13 @@
+2= what is combinator in css.
+
+3= css specificity.
+
+4= css counters.
+
+5= what is pagination in css , how you ceate pagination in css.
+
+5= box model?
+
+6= flax-box?
+
+
